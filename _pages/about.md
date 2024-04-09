@@ -17,7 +17,7 @@ Education
 
 Publication
 ======
-- Attacking by Aligning: Clean-Label Backdoor Attacks on Object Detection, Yize Cheng*, **Wenbin Hu**\*,
+- Attacking by Aligning: Clean-Label Backdoor Attacks on Object Detection, Yize Cheng\*, **Wenbin Hu**\*,
 Minhao Cheng, arXiv preprint arXiv:2307.10487 [[link](https://arxiv.org/abs/2307.10487)]  
 - Mitigating the Alignment Tax of RLHF, Yong Lin\*, Hangyu Lin\*, Wei Xiong\*, Shizhe Diao\*, Jianmeng Liu,
 Jipeng Zhang, Rui Pan, Haoxiang Wang, **Wenbin Hu**, Hanning Zhang, Hanze Dong, Renjie Pi, Han Zhao,
