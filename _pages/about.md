@@ -13,7 +13,7 @@ I will abtain my bachelor degree BEng in 2024 summer. I am looking for MPhil/PhD
 Education
 ======
 - BEng. in Computer Science at Hong Kong University of Science and Technology, Hong Kong, 2024
-- Exchange Semester in Technical University of Munich, Munich, 2023.04-2023.08
+- Exchange Semester in Technical University of Munich, Munich, 2023.04 - 2023.08
 
 Publication
 ======
@@ -21,9 +21,10 @@ Publication
 Minhao Cheng, arXiv preprint arXiv:2307.10487 [[link](https://arxiv.org/abs/2307.10487)]  
 - Mitigating the Alignment Tax of RLHF, Yong Lin*, Hangyu Lin*, Wei Xiong*, Shizhe Diao*, Jianmeng Liu,
 Jipeng Zhang, Rui Pan, Haoxiang Wang, Wenbin Hu, Hanning Zhang, Hanze Dong, Renjie Pi, Han Zhao,
-Nan Jiang, Heng Ji, Yuan Yao, Tong Zhang, arXiv preprint arXiv:2309.06256 [[link](https://arxiv.org/abs/2309.06256)] 
+Nan Jiang, Heng Ji, Yuan Yao, Tong Zhang, arXiv preprint arXiv:2309.06256 [[link](https://arxiv.org/abs/2309.06256)]  
 
-(* represents equal contribution.)
+(* represents equal contribution.)  
+
 Awards and Honors
 ======
 - Dean's List (Term GPA > 3.7, top 10 persentile)
