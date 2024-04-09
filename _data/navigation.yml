@@ -16,7 +16,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /workspaces/whuak.github.io/files/paper1.pdf
+    url: https://github.com/whuak/whuak.github.io/blob/master/files/paper1.pdf
     
   # - title: "Guide"
   #   url: /markdown/
