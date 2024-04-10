@@ -1,6 +1,8 @@
 # main links links
 main:
-  - title: "Publications"
+  # - title: "Publications"
+  #   url: /publications/
+  - title: "Blogs"
     url: /publications/
 
   # - title: "Talks"
@@ -12,8 +14,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blogs"
-    url: /year-archive/
+  # - title: "Blogs"
+  #   url: /year-archive/
     
   - title: "CV"
     url: https://whuak.github.io/files/cv.pdf

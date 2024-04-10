@@ -1,11 +1,34 @@
 ---
-permalink: /projects/
+permalink: /markdown/
 title: "Projects"
 author_profile: true
 redirect_from: 
   - /md/
-  - /projects.html
+  - /markdown.html
 ---
-## Project 1: Face Mask Recognition
-Wearing face masks has been proven highly effective in preventing the spread of Covid-19. Hence, face mask detection has become an emerging object detection task since the outbreak of the pandemic. However, there are few works focusing on detecting the correctness of the way masks are worn and the suitability of the choice of masks’ category. With the extensive usage of CCTV surveillance cameras, abundant image data of people wearing or not wearing masks of different categories in different manner can be collected in real time. In this project, we first collected images of people wearing different types of face masks to build our dataset, which contains 6500 images, containing of faces in 5 categories. We adopted deep-learning-based techniques to detect and classify faces in real time according to whether they are properly wearing face masks, and detailed to what type of mask is worn if one is wearing a mask in a proper manner. To be more specific, we experimented with the Faster-RCNN model with different baseline CNN structures and different ROI selection criterion, as well as the Yolov5 model, and eventually reached an mAP value of 0.975 with FPS of 109.8.  
-[link](https://whuak.github.io/files/COMP5214_Report.pdf)  
+## Project 1: DiffAdv: Generating an Adversarial Example for Any Given Image Using Diffusion Models [<a href=https://whuak.github.io/files/DiffAdv_Report.pdf>link</a>]
+2023.10 - 2023.12
+- Motivated by the lack of efficiency and scalability of black-box adversarial attacks, we generate adversarial samples.
+using a diffusion model.
+– Our results show a drop of accuracy of the generate adversarial examples.
+
+## Project 2: On the Role of Inductive Graph Reasoning on Improving Resilience against Backdoor Attacks to Commonsense Knowledge Graphs [<a href=https://whuak.github.io/files/COMP4222_Group2_CSKGAttack_Project__Copy_.pdf>link</a>]
+2022.10 - 2022.12
+- We investigated the role of inductive graph reasoning on improving the resilience of Commonsense Knowledge
+Graph (CSKG) against backdoor attacks.
+- The experiments indicated that there is a distribution shift in the prediction heads, and hence, inductive graph
+reasoning can enhance the model’s resilience to some extent. Nevertheless, the impact is rather modest, as the
+attack success rate remains virtually unchanged.
+
+## Project 3: Face Mask Recognition [<a href=https://whuak.github.io/files/COMP5214_Report.pdf>link</a>]
+2022.04 - 2022.06
+- We have developed a dataset specifically for object detection, including five distinct classes of face masks.
+- We achieved a high level of accuracy in mask detection by leveraging the YOLOv5 and Faster-RCNN models.
+
+
+
+
+
+
+
+
