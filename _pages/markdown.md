@@ -8,9 +8,8 @@ redirect_from:
 ---
 ## Project 1: DiffAdv: Generating an Adversarial Example for Any Given Image Using Diffusion Models [<a href="https://whuak.github.io/files/DiffAdv_Report.pdf">link</a>]
 2023.10 - 2023.12
-- Motivated by the lack of efficiency and scalability of black-box adversarial attacks, we generate adversarial samples.
-using a diffusion model.
-– Our results show a drop of accuracy of the generate adversarial examples.
+- Motivated by the lack of efficiency and scalability of black-box adversarial attacks, we generate adversarial samples using a diffusion model.
+- Our preliminary results show a drop of accuracy of the generate adversarial examples.
 
 ## Project 2: On the Role of Inductive Graph Reasoning on Improving Resilience against Backdoor Attacks to Commonsense Knowledge Graphs [<a href="https://whuak.github.io/files/COMP4222_Group2_CSKGAttack_Project__Copy_.pdf">link</a>]
 2022.10 - 2022.12
