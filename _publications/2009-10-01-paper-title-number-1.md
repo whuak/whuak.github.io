@@ -1,6 +1,6 @@
 ---
 title: 'How to Implement a Convolutional Layer from Scratch?'
-date: 2024-03-01
+# date: 2024-03-01
 permalink: /posts/2024/03/blog-post-1
 tags:
   - Deep Learning
