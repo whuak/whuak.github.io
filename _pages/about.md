@@ -12,7 +12,7 @@ I will abtain my bachelor degree BEng in 2024 summer. I am looking for MPhil/PhD
 
 Education
 ======
-- BEng. in Computer Science at Hong Kong University of Science and Technology, Hong Kong, 2024
+- BEng. in Computer Science at Hong Kong University of Science and Technology, Hong Kong, 2020 - 2024
 - Exchange Semester in Technical University of Munich, Munich, 2023.04 - 2023.08
 
 Publication
