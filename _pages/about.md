@@ -17,13 +17,14 @@ Education
 
 Publication
 ======
-- Attacking by Aligning: Clean-Label Backdoor Attacks on Object Detection, Yize Cheng\*, **Wenbin Hu**\*,
-Minhao Cheng, arXiv preprint arXiv:2307.10487 [[link](https://arxiv.org/abs/2307.10487)]  
+- Node Level Graph Autoencoder: Unified Pretraining for Textual Graph Learning, **Wenbin Hu**\*, Huihao Jing\*, Qi Hu\*, Haoran Li, Yangqiu Song, arXiv preprint arXiv:2408.07091 [[link](https://arxiv.org/abs/2408.07091)]  
 
 - Mitigating the Alignment Tax of RLHF, Yong Lin\*, Hangyu Lin\*, Wei Xiong\*, Shizhe Diao\*, Jianmeng Liu,
 Jipeng Zhang, Rui Pan, Haoxiang Wang, **Wenbin Hu**, Hanning Zhang, Hanze Dong, Renjie Pi, Han Zhao,
 Nan Jiang, Heng Ji, Yuan Yao, Tong Zhang, arXiv preprint arXiv:2309.06256 [[link](https://arxiv.org/abs/2309.06256)]  
-**ICML-2024 Submission**
+
+- Attacking by Aligning: Clean-Label Backdoor Attacks on Object Detection, Yize Cheng\*, **Wenbin Hu**\*,
+Minhao Cheng, arXiv preprint arXiv:2307.10487 [[link](https://arxiv.org/abs/2307.10487)]  
 
 (* represents equal contribution.)  
 
