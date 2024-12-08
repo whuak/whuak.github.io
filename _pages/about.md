@@ -6,16 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 --- 
-I am an incoming MPhil student in Computer Science Engineering at Hong Kong University of Science and Technology (HKUST). 
-Currently, I am a research assistant in HKUST, working on LLM applications related to privacy law 
-with [Dr. Haoran Li](https://hlibt.student.ust.hk/) and [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). 
-During my undergraduate studies, I had the fortune of working with [Prof. Minhao Cheng](https://cmhcbb.github.io/) 
-on Backdoor Attack and Adversarial Attack. I have a broad research interests in robust machine learning, 
-with a primary focus on privacy concerns in LLMs. Recently, I have recently been focusing on enhancing **legal reasoning in LLMs**.
+I am an incoming MPhil student in Computer Science Engineering at Hong Kong University of Science and Technology (HKUST), advised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). Currently, I am doing research in HKUST, working on building a LLM privacy guard with [Dr. Haoran Li](https://hlibt.student.ust.hk/). During my undergraduate studies, I had the fortune of working with [Prof. Minhao Cheng](https://cmhcbb.github.io/) on inplanting undetectable backdoors in ML models. I have keen research interest in **LLM Reasoning and Safety**. Recently, I've been concentrating on enhancing **legal reasoning in LLMs** and developing **a safety guard for LLMs** based on that.
+
 
 If you have any questions about my works or would like to collaborate with me, please feel free to contact me via email (whuak at connect dot ust dot hk).
 
-This webpage is last updated on **2024/10/13**.
+This webpage is last updated on **2024/12/08**.
 
 Education
 ======
@@ -41,3 +37,12 @@ Nan Jiang, Heng Ji, Yuan Yao, Tong Zhang. *To appear in Conference on Empirical 
 Awards and Honors
 ======
 - Dean's List (Term GPA > 3.7, top 10 percentile)
+
+Courses
+======
+- AI Related Courses: Machine Learning, Deep Learning, Computer Vision, Natural Language
+Processing, Graph Machine Learning, Reinforcement Learning, Probabilistic Graph Model.
+- CS Related Courses: C++, OOP, Computer Architecture, Operation System, Algorithm, Software
+Engineering, Computer Graphics, Web Search Engine.
+- MATH Related Courses: Multivariable Calculus, Linear Algebra, Abstract Algebra, Probability Theory,
+Convex Optimization, Mathematic Analysis, Ordinary Differential Equation.
