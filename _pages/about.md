@@ -6,17 +6,29 @@ redirect_from:
   - /about/
   - /about.html
 --- 
-I am an incoming MPhil student in Computer Science Engineering at Hong Kong University of Science and Technology (HKUST), advised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). Currently, I am doing research in HKUST, working on building a LLM privacy guard with [Dr. Haoran Li](https://hlibt.student.ust.hk/). During my undergraduate studies, I had the fortune of working with [Prof. Minhao Cheng](https://cmhcbb.github.io/) on inplanting undetectable backdoors in ML models. I have keen research interest in **LLM Reasoning and Safety**. Recently, I've been concentrating on enhancing **legal reasoning in LLMs** and developing **a safety guard for LLMs** based on that.
+I am a year-1 MPhil student in Computer Science Engineering at Hong Kong University of Science and Technology (HKUST), advised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). Currently, I am working with [Dr. Haoran Li](https://hlibt.student.ust.hk/) on mitigating LLM privacy issues via [Contextual Integrity](https://en.wikipedia.org/wiki/Contextual_integrity). During my undergraduate studies, I had the fortune of working with [Prof. Minhao Cheng](https://cmhcbb.github.io/) on ML safety. 
+
+If you are interested in my works or would like to collaborate with me, please feel free to contact me via email (whuak at connect dot ust dot hk).
+
+This webpage is last updated on **2025/02/10**.
 
 
-If you have any questions about my works or would like to collaborate with me, please feel free to contact me via email (whuak at connect dot ust dot hk).
-
-This webpage is last updated on **2024/12/08**.
+Research Interests
+======
+- LLM Reasoning
+- LLM Privacy and Safety
+- Contextual Integrity
 
 Education
 ======
-- BEng. in Computer Science at Hong Kong University of Science and Technology, Hong Kong, 2020 - 2024
-- Exchange Semester in Technical University of Munich, Munich, 2023.04 - 2023.08
+- MPhil. in Computer Science at Hong Kong University of Science and Technology, 2025.02 - Now
+- BEng. in Computer Science at Hong Kong University of Science and Technology, 2020.09 - 2024.06
+- Exchange Semester in Technical University of Munich, 2023.04 - 2023.08
+
+Working Experience
+======
+Research Assistant at Hong Kong University of Science and Technology, 2024.07 - 2025.01
+
 
 Preprints
 ======
