@@ -59,9 +59,9 @@ Awards and Honors
 
 Courses
 ======
-- AI Related Courses: Machine Learning, Deep Learning, Computer Vision, Natural Language
+- **AI Related Courses**: Machine Learning, Deep Learning, Computer Vision, Natural Language
 Processing, Graph Machine Learning, Reinforcement Learning, Probabilistic Graph Model.
-- CS Related Courses: C++, OOP, Computer Architecture, Operation System, Algorithm, Software
+- **CS Related Courses**: C++, OOP, Computer Architecture, Operation System, Algorithm, Software
 Engineering, Computer Graphics, Web Search Engine.
-- MATH Related Courses: Multivariable Calculus, Linear Algebra, Abstract Algebra, Probability Theory,
+- **MATH Related Courses**: Multivariable Calculus, Linear Algebra, Abstract Algebra, Probability Theory,
 Convex Optimization, Mathematic Analysis, Ordinary Differential Equation.
