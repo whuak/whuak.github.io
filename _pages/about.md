@@ -10,7 +10,7 @@ I am a year-1 MPhil student in Computer Science Engineering at Hong Kong Univers
 
 If you are interested in my works or would like to collaborate with me, please feel free to contact me via email (whuak at connect dot ust dot hk).   
 
-This webpage is last updated on **2025/05/21**.  
+This webpage is last updated on **2025/05/25**.  
 
 
 Research Interests
@@ -33,18 +33,18 @@ Working Experience
 Preprints
 ======
 - **Context Reasoner: Incentivizing Reasoning Capability for Contextualized Privacy and Safety Compliance via Reinforcement Learning**. 2025.  
-**Wenbin Hu**, Haoran Li, Huihao Jing, Qi Hu, Ziqian Zeng, Sirui Han, Heli Xu, Tianshu Chu, Peizhao Hu, Yangqiu Song  
-[[paper](https://arxiv.org/abs/2505.14585)]   
+**Wenbin Hu**, Haoran Li, Huihao Jing, Qi Hu, Ziqian Zeng, Sirui Han, Heli Xu, Tianshu Chu, Peizhao Hu, Yangqiu Song. [[paper](https://arxiv.org/abs/2505.14585)]   
+
+- **MCIP: Protecting MCP Safety via Model Contextual Integrity Protocol**. 2025.  
+Huihao Jing, Haoran Li, **Wenbin Hu**, Qi Hu, Heli Xu, Tianshu Chu, Peizhao Hu, Yangqiu Song. [[paper](https://arxiv.org/abs/2505.14590)]  
  
 - **Node Level Graph Autoencoder: Unified Pretraining for Textual Graph Learning**. 2024.  
-**Wenbin Hu**\*, Huihao Jing\*, Qi Hu\*, Haoran Li, Yangqiu Song   
-[[paper](https://arxiv.org/abs/2408.07091)]   
+**Wenbin Hu**\*, Huihao Jing\*, Qi Hu\*, Haoran Li, Yangqiu Song. [[paper](https://arxiv.org/abs/2408.07091)]   
 
 - **Attacking by Aligning: Clean-Label Backdoor Attacks on Object Detection**. 2023.  
-Yize Cheng\*, **Wenbin Hu**\*, Minhao Cheng   
-[[paper](https://arxiv.org/abs/2307.10487)]   
+Yize Cheng\*, **Wenbin Hu**\*, Minhao Cheng. [[paper](https://arxiv.org/abs/2307.10487)]   
 
-(* represents equal contribution.)   
+ 
 
 Publication
 ======
@@ -54,8 +54,10 @@ To appear in ACL 2025 (Main). [[paper](https://arxiv.org/pdf/2502.17041)]
 
 - **Mitigating the Alignment Tax of RLHF**. 2024.  
 Yong Lin\*, Hangyu Lin\*, Wei Xiong\*, Shizhe Diao\*, Jianmeng Liu, Jipeng Zhang, Rui Pan, Haoxiang Wang, **Wenbin Hu**, Hanning Zhang, Hanze Dong, Renjie Pi, Han Zhao, Nan Jiang, Heng Ji, Yuan Yao, Tong Zhang.    
-EMNLP 2024 (Main) [[paper](https://arxiv.org/abs/2309.06256)]
+EMNLP 2024 (Main). [[paper](https://arxiv.org/abs/2309.06256)]
 
+
+(* represents equal contribution.)  
 
 Awards and Honors
 ======
@@ -69,3 +71,8 @@ Processing, Graph Machine Learning, Reinforcement Learning, Probabilistic Graph 
 Engineering, Computer Graphics, Web Search Engine.
 - **MATH Related Courses**: Multivariable Calculus, Linear Algebra, Abstract Algebra, Probability Theory,
 Convex Optimization, Mathematic Analysis, Ordinary Differential Equation.
+
+
+Misc.
+======
+I have a keen interest in implementing popular methods from scratch. I have developed RLHF (PPO), GPT-2 (training and decoding), etc. [[code](https://github.com/HUWENBIN2024/code_from_scratch_with_100_lines)]
