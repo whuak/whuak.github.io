@@ -6,22 +6,22 @@ redirect_from:
   - /about/
   - /about.html
 --- 
-I am a year-1 MPhil student in Computer Science Engineering at Hong Kong University of Science and Technology (HKUST), advised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). Currently, I am working with [Dr. Haoran Li](https://hlibt.student.ust.hk/) on LLM safety and privacy, solving the problem via enhancing legal compliance reasoning. During my undergraduate studies, I had the fortune of working with [Prof. Minhao Cheng](https://cmhcbb.github.io/) on backdoor attack on object detection models.   
+I am a year-1 PhD student in Computer Science Engineering at Hong Kong University of Science and Technology (HKUST), advised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). Currently, I am working with [Dr. Haoran Li](https://hlibt.student.ust.hk/) on LLM safety and privacy, solving the problem via incentivizing legal compliance reasoning. During my undergraduate studies, I had the fortune of working with [Prof. Minhao Cheng](https://cmhcbb.github.io/) on backdoor attack on object detection models.   
 
 If you are interested in my works or would like to collaborate with me, please feel free to contact me via email (whuak at connect dot ust dot hk).   
 
-This webpage is last updated on **2025/05/25**.  
+This webpage is last updated on **2025/07/13**.  
 
 
 Research Interests
 ======
-- LLM Reasoning
+- LLM General Reasoning
 - LLM Privacy and Safety
 - Legal NLP
 
 Education
 ======
-- *MPhil.* in Computer Science at Hong Kong University of Science and Technology, 2025.02 - Now
+- *Ph.D* in Computer Science at Hong Kong University of Science and Technology, 2025.02 - Now
 - *BEng.* in Computer Science at Hong Kong University of Science and Technology, 2020.09 - 2024.06
 - *Exchange Semester* in Technical University of Munich, 2023.04 - 2023.08
 
@@ -61,6 +61,7 @@ EMNLP 2024 (Main). [[paper](https://arxiv.org/abs/2309.06256)]
 
 Awards and Honors
 ======
+- Full Scholarship for Postgraduate Study
 - Dean's List (Term GPA > 3.7, top 10 percentile)
 
 Courses
