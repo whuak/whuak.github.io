@@ -10,7 +10,7 @@ I am a year-1 PhD student in Computer Science Engineering at Hong Kong Universit
 
 If you are interested in my works or would like to collaborate with me, please feel free to contact me via email (whuak at connect dot ust dot hk).   
 
-This webpage is last updated on **2025/07/13**.  
+This webpage is last updated on **2025/08/22**.  
 
 
 Research Interests
@@ -21,8 +21,8 @@ Research Interests
 
 Education
 ======
-- *Ph.D* in Computer Science at Hong Kong University of Science and Technology, 2025.02 - Now
-- *BEng.* in Computer Science at Hong Kong University of Science and Technology, 2020.09 - 2024.06
+- *Ph.D.* in Computer Science at Hong Kong University of Science and Technology, 2025.02 - Now
+- *B.Eng.* in Computer Science at Hong Kong University of Science and Technology, 2020.09 - 2024.06
 - *Exchange Semester* in Technical University of Munich, 2023.04 - 2023.08
 
 Working Experience
@@ -30,31 +30,35 @@ Working Experience
 - *Research Assistant* at Hong Kong University of Science and Technology, 2024.07 - 2025.01
 
 
-Preprints
+
+ 
+
+Publication
 ======
 - **Context Reasoner: Incentivizing Reasoning Capability for Contextualized Privacy and Safety Compliance via Reinforcement Learning**. 2025.  
-**Wenbin Hu**, Haoran Li, Huihao Jing, Qi Hu, Ziqian Zeng, Sirui Han, Heli Xu, Tianshu Chu, Peizhao Hu, Yangqiu Song. [[paper](https://arxiv.org/abs/2505.14585)]   
+**Wenbin Hu**, Haoran Li, Huihao Jing, Qi Hu, Ziqian Zeng, Sirui Han, Heli Xu, Tianshu Chu, Peizhao Hu, Yangqiu Song.  
+EMNLP 2025 (Main). [[paper](https://arxiv.org/abs/2505.14585)]   
 
 - **MCIP: Protecting MCP Safety via Model Contextual Integrity Protocol**. 2025.  
-Huihao Jing, Haoran Li, **Wenbin Hu**, Qi Hu, Heli Xu, Tianshu Chu, Peizhao Hu, Yangqiu Song. [[paper](https://arxiv.org/abs/2505.14590)]  
- 
+Huihao Jing, Haoran Li, **Wenbin Hu**, Qi Hu, Heli Xu, Tianshu Chu, Peizhao Hu, Yangqiu Song.  
+EMNLP 2025 (Main). [[paper](https://arxiv.org/abs/2505.14590)]  
+
+- **PrivaCI-Bench: Evaluating Privacy with Contextual Integrity and Legal Compliance**. 2025.  
+Haoran Li\*, **Wenbin Hu**\*, Huihao Jing\*, Yulin Chen, Qi Hu, Sirui Han, Tianshu Chu, Peizhao Hu, Yangqiu Song.  
+ACL 2025 (Main). [[paper](https://arxiv.org/pdf/2502.17041)]
+
+- **Mitigating the Alignment Tax of RLHF**. 2024.  
+Yong Lin\*, Hangyu Lin\*, Wei Xiong\*, Shizhe Diao\*, Jianmeng Liu, Jipeng Zhang, Rui Pan, Haoxiang Wang, **Wenbin Hu**, Hanning Zhang, Hanze Dong, Renjie Pi, Han Zhao, Nan Jiang, Heng Ji, Yuan Yao, Tong Zhang.    
+EMNLP 2024 (Main). [[paper](https://arxiv.org/abs/2309.06256)]
+
+Preprints
+======
 - **Node Level Graph Autoencoder: Unified Pretraining for Textual Graph Learning**. 2024.  
 **Wenbin Hu**\*, Huihao Jing\*, Qi Hu\*, Haoran Li, Yangqiu Song. [[paper](https://arxiv.org/abs/2408.07091)]   
 
 - **Attacking by Aligning: Clean-Label Backdoor Attacks on Object Detection**. 2023.  
 Yize Cheng\*, **Wenbin Hu**\*, Minhao Cheng. [[paper](https://arxiv.org/abs/2307.10487)]   
 
- 
-
-Publication
-======
-- **PrivaCI-Bench: Evaluating Privacy with Contextual Integrity and Legal Compliance**. 2025.  
-Haoran Li\*, **Wenbin Hu**\*, Huihao Jing\*, Yulin Chen, Qi Hu, Sirui Han, Tianshu Chu, Peizhao Hu, Yangqiu Song  
-To appear in ACL 2025 (Main). [[paper](https://arxiv.org/pdf/2502.17041)]  
-
-- **Mitigating the Alignment Tax of RLHF**. 2024.  
-Yong Lin\*, Hangyu Lin\*, Wei Xiong\*, Shizhe Diao\*, Jianmeng Liu, Jipeng Zhang, Rui Pan, Haoxiang Wang, **Wenbin Hu**, Hanning Zhang, Hanze Dong, Renjie Pi, Han Zhao, Nan Jiang, Heng Ji, Yuan Yao, Tong Zhang.    
-EMNLP 2024 (Main). [[paper](https://arxiv.org/abs/2309.06256)]
 
 
 (* represents equal contribution.)  
