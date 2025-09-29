@@ -6,18 +6,21 @@ redirect_from:
   - /about/
   - /about.html
 --- 
-I am a year-1 PhD student in Computer Science Engineering at Hong Kong University of Science and Technology (HKUST), advised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). Currently, I am working with [Dr. Haoran Li](https://hlibt.student.ust.hk/) on LLM safety and privacy, solving the problem via incentivizing legal compliance reasoning. During my undergraduate studies, I had the fortune of working with [Prof. Minhao Cheng](https://cmhcbb.github.io/) on backdoor attack on object detection models.   
+I am a year-1 PhD student in Computer Science Engineering at Hong Kong University of Science and Technology (HKUST), advised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). 
+Currently, I am working with [Dr. Haoran Li](https://hlibt.student.ust.hk/) on LLM safety and privacy. 
+During my undergraduate studies, I had the fortune of working with [Prof. Minhao Cheng](https://cmhcbb.github.io/) on backdoor attack on object detection models.   
 
 If you are interested in my works or would like to collaborate with me, please feel free to contact me via email (whuak at connect dot ust dot hk).   
 
-This webpage is last updated on **2025/08/22**.  
+This webpage is last updated on **2025/09/29**.  
 
 
 Research Interests
 ======
-- LLM General Reasoning
-- LLM Privacy and Safety
-- Legal NLP
+My research interest lies on the intersection of LLM reasoning and safety/privacy. Currently, I am working on:
+- LLM Safety through the Lens of Compliance: [Compliant Reasoner](https://arxiv.org/abs/2509.22250).
+- LLM Contextual Integrity Reasoning: [Context Reasoner](https://arxiv.org/abs/2505.14585) and [PrivaCI-Bench](https://arxiv.org/abs/2505.14590).
+- Trustworthy Agent Protocol with Top-down Overseeing: [MCIP](https://arxiv.org/abs/2505.14590).
 
 Education
 ======
@@ -30,8 +33,6 @@ Working Experience
 - *Research Assistant* at Hong Kong University of Science and Technology, 2024.07 - 2025.01
 
 
-
- 
 
 Publication
 ======
@@ -53,7 +54,10 @@ EMNLP 2024 (Main). [[paper](https://arxiv.org/abs/2309.06256)]
 
 Preprints
 ======
-- **Node Level Graph Autoencoder: Unified Pretraining for Textual Graph Learning**. 2024.  
+- **Safety Compliance: Rethinking LLM Safety Reasoning through the Lens of Compliance**. 2025.09. 
+Wenbin Hu, Huihao Jing, Haochen Shi, Haoran Li, Yangqiu Song. [[paper](https://arxiv.org/abs/2509.22250)]
+
+- **Node Level Graph Autoencoder: Unified Pretraining for Textual Graph Learning**. 2024.08  
 **Wenbin Hu**\*, Huihao Jing\*, Qi Hu\*, Haoran Li, Yangqiu Song. [[paper](https://arxiv.org/abs/2408.07091)]   
 
 - **Attacking by Aligning: Clean-Label Backdoor Attacks on Object Detection**. 2023.  
@@ -65,19 +69,20 @@ Yize Cheng\*, **Wenbin Hu**\*, Minhao Cheng. [[paper](https://arxiv.org/abs/2307
 
 Awards and Honors
 ======
-- Full Scholarship for Postgraduate Study
+- Full Scholarship for Ph.D. Study
 - Dean's List (Term GPA > 3.7, top 10 percentile)
 
-Courses
+Main Courses
 ======
-- **AI Related Courses**: Machine Learning, Deep Learning, Computer Vision, Natural Language
-Processing, Graph Machine Learning, Reinforcement Learning, Probabilistic Graph Model.
-- **CS Related Courses**: C++, OOP, Computer Architecture, Operation System, Algorithm, Software
-Engineering, Computer Graphics, Web Search Engine.
-- **MATH Related Courses**: Multivariable Calculus, Linear Algebra, Abstract Algebra, Probability Theory,
+- **AI & ML Courses**: Machine Learning, Deep Learning, Computer Vision and Graphics, Natural Language
+Processing, Reinforcement Learning, Probabilistic Graph Model.
+- **CS Foundation Courses**: C++, OOP, Computer Architecture, Operation System, Algorithm, Software
+Engineering. 
+- **Data Mining:** Knowledge Discovery and Data Mining, Machine Learning with Structured Data, Web Search Engine.
+- **MATH Courses**: Multivariable Calculus, Linear Algebra, Abstract Algebra, Probability Theory,
 Convex Optimization, Mathematic Analysis, Ordinary Differential Equation.
 
 
 Misc.
 ======
-I have a keen interest in implementing popular methods from scratch. I have developed RLHF (PPO), GPT-2 (training and decoding), etc. [[code](https://github.com/HUWENBIN2024/code_from_scratch_with_100_lines)]
+I have a keen interest in implementing popular methods from scratch. I have developed RLHF (PPO), GPT-2 (with causal transformer layers), Mixture-of-Expert, and etc. [[code](https://github.com/HUWENBIN2024/code_from_scratch_with_100_lines)]
