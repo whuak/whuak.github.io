@@ -17,10 +17,11 @@ This webpage is last updated on **2025/09/29**.
 
 Research Interests
 ======
-My research interest lies on the intersection of LLM reasoning and safety/privacy. Currently, I am working on:
-- LLM Safety through the Lens of Compliance: [Compliant Reasoner](https://arxiv.org/abs/2509.22250).
+My research interest lies on the intersection of **LLM reasoning and Safety & Privacy**. Currently, I am working on:
+- LLM Safety through the Lens of Legal Compliance: [Compliance Reasoner](https://arxiv.org/abs/2509.22250).
 - LLM Contextual Integrity Reasoning: [Context Reasoner](https://arxiv.org/abs/2505.14585) and [PrivaCI-Bench](https://arxiv.org/abs/2505.14590).
-- Trustworthy Agent Protocol with Top-down Overseeing: [MCIP](https://arxiv.org/abs/2505.14590).
+- Contextually Trustworthy Agent Protocol [MCIP](https://arxiv.org/abs/2505.14590) and System [MASLegalBench](https://arxiv.org/pdf/2509.24922v1).  
+- Novel RL Algorithm for Flexible Safety Policy: [GSPR](https://arxiv.org/abs/2509.24418).
 
 Education
 ======
@@ -49,18 +50,25 @@ Haoran Li\*, **Wenbin Hu**\*, Huihao Jing\*, Yulin Chen, Qi Hu, Sirui Han, Tians
 ACL 2025 (Main). [[paper](https://arxiv.org/pdf/2502.17041)]
 
 - **Mitigating the Alignment Tax of RLHF**. 2024.  
-Yong Lin\*, Hangyu Lin\*, Wei Xiong\*, Shizhe Diao\*, Jianmeng Liu, Jipeng Zhang, Rui Pan, Haoxiang Wang, **Wenbin Hu**, Hanning Zhang, Hanze Dong, Renjie Pi, Han Zhao, Nan Jiang, Heng Ji, Yuan Yao, Tong Zhang.    
+Yong Lin, Hangyu Lin, Wei Xiong, Shizhe Diao, Jianmeng Liu, Jipeng Zhang, Rui Pan, Haoxiang Wang, **Wenbin Hu**, Hanning Zhang, Hanze Dong, Renjie Pi, Han Zhao, Nan Jiang, Heng Ji, Yuan Yao, Tong Zhang.    
 EMNLP 2024 (Main). [[paper](https://arxiv.org/abs/2309.06256)]
 
 Preprints
 ======
-- **Safety Compliance: Rethinking LLM Safety Reasoning through the Lens of Compliance**. 2025.09. 
-Wenbin Hu, Huihao Jing, Haochen Shi, Haoran Li, Yangqiu Song. [[paper](https://arxiv.org/abs/2509.22250)]
+- **Safety Compliance: Rethinking LLM Safety Reasoning through the Lens of Compliance**. 2025.09.   
+**Wenbin Hu\***, Huihao Jing\*, Haochen Shi, Haoran Li, Yangqiu Song. [[paper](https://arxiv.org/abs/2509.22250)]
+
+- **GSPR: Aligning LLM Safeguards as Generalizable Safety Policy Reasoners**. 2025.09.  
+Haoran Li, Yulin Chen, Jingru Zeng, Hao Peng, Huihao Jing, **Wenbin Hu**, Xi Yang, Ziqian Zeng, Sirui Han, Yangqiu Song. [[paper](https://arxiv.org/abs/2509.24418)]
+
+- **MASLegalBench: Benchmarking Multi-Agent Systems in Deductive Legal Reasoning**. 2025.09.  
+Huihao Jing\*, **Wenbin Hu\***, Hongyu Luo, Jianhui Yang, Wei Fan, Haoran Li, Yangqiu Song. [[paper](https://arxiv.org/abs/2509.24922v1)]
+
 
 - **Node Level Graph Autoencoder: Unified Pretraining for Textual Graph Learning**. 2024.08  
 **Wenbin Hu**\*, Huihao Jing\*, Qi Hu\*, Haoran Li, Yangqiu Song. [[paper](https://arxiv.org/abs/2408.07091)]   
 
-- **Attacking by Aligning: Clean-Label Backdoor Attacks on Object Detection**. 2023.  
+- **Attacking by Aligning: Clean-Label Backdoor Attacks on Object Detection**. 2023.07  
 Yize Cheng\*, **Wenbin Hu**\*, Minhao Cheng. [[paper](https://arxiv.org/abs/2307.10487)]   
 
 
