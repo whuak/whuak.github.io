@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wenbin Hu"
+title                    : "Wenbin Hu 胡文彬 (George)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Wenbin Hu"
+  name             : "Wenbin Hu 胡文彬 (George)"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in HKUST"
   location         : "Hong Kong"
