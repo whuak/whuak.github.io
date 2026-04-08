@@ -6,22 +6,20 @@ redirect_from:
   - /about/
   - /about.html
 --- 
-I am a year-1 PhD student in Computer Science Engineering at Hong Kong University of Science and Technology (HKUST), advised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). 
-Currently, I am working with [Dr. Haoran Li](https://hlibt.student.ust.hk/) on LLM safety and privacy. 
+I am a year-2 PhD student in Computer Science Engineering at Hong Kong University of Science and Technology (HKUST), advised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). 
+Currently, I am working with [Dr. Haoran Li](https://hlibt.student.ust.hk/) on LLM safety alignment. 
 During my undergraduate studies, I had the fortune of working with [Prof. Minhao Cheng](https://cmhcbb.github.io/) on backdoor attack on object detection models.   
 
 If you are interested in my works or would like to collaborate with me, please feel free to contact me via email (whuak at connect dot ust dot hk).   
 
-This webpage is last updated on **2025/09/29**.  
+This webpage is last updated on **2026/04/08**.  
 
 
 Research Interests
 ======
-My research interest lies on the intersection of **LLM reasoning and Safety & Privacy**. Currently, I am working on:
-- LLM Safety through the Lens of Legal Compliance: [Compliance Reasoner](https://arxiv.org/abs/2509.22250).
-- LLM Contextual Integrity Reasoning: [Context Reasoner](https://arxiv.org/abs/2505.14585) and [PrivaCI-Bench](https://arxiv.org/abs/2505.14590).
-- Contextually Trustworthy Agent Protocol [MCIP](https://arxiv.org/abs/2505.14590) and System [MASLegalBench](https://arxiv.org/pdf/2509.24922v1).  
-- Novel RL Algorithm for Flexible Safety Policy: [GSPR](https://arxiv.org/abs/2509.24418).
+My research interest lies on the intersection of **RL reasoning and Safety**. Currently, I am working on:
+- Safety and Compliance Benchmarks: [OmniCompliance-100K](https://arxiv.org/pdf/2603.13933), [PrivaCI-Bench](https://arxiv.org/abs/2505.14590), [MCIP](https://arxiv.org/abs/2505.14590).
+- RL Safety Reasoners: [Context Reasoner](https://arxiv.org/abs/2505.14585), [Compliance Reasoner](https://arxiv.org/abs/2509.22250), [General Safety Policy Reasoner](https://arxiv.org/abs/2509.24418).
 
 Education
 ======
@@ -37,6 +35,14 @@ Working Experience
 
 Publication
 ======
+- **OmniCompliance-100K: A Multi-Domain, Rule-Grounded, Real-World Safety Compliance Dataset**. 2026.  
+**Wenbin Hu**, Huihao Jing, Haochen Shi, Changxuan Fan, Haoran Li, Yangqiu Song.   
+ACL 2026 (Findings). [[paper](https://arxiv.org/pdf/2603.13933)]   
+
+- **ContextLens: Modeling Imperfect Privacy and Safety Context for Legal Compliance**. 2026.  
+Haoran Li, Yulin Chen, Huihao JING, **Wenbin Hu**, Tsz Ho Li, Chanhou Lou, Hong Ting Tsang, Sirui Han, Yangqiu Song.   
+ACL 2026 (Main).  
+
 - **Context Reasoner: Incentivizing Reasoning Capability for Contextualized Privacy and Safety Compliance via Reinforcement Learning**. 2025.  
 **Wenbin Hu**, Haoran Li, Huihao Jing, Qi Hu, Ziqian Zeng, Sirui Han, Heli Xu, Tianshu Chu, Peizhao Hu, Yangqiu Song.  
 EMNLP 2025 (Main). [[paper](https://arxiv.org/abs/2505.14585)]   
