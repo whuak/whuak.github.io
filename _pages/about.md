@@ -12,7 +12,7 @@ During my undergraduate studies, I had the fortune of working with [Prof. Minhao
 
 If you are interested in my works or would like to collaborate with me, please feel free to contact me via email (whuak at connect dot ust dot hk).   
 
-This webpage is last updated on **2026/04/08**.  
+This webpage is last updated on **2026/08/21**.  
 
 
 Research Interests
@@ -39,21 +39,29 @@ Publication
 **Wenbin Hu**, Huihao Jing, Haochen Shi, Changxuan Fan, Haoran Li, Yangqiu Song.   
 ACL 2026 (Findings). [[paper](https://arxiv.org/pdf/2603.13933)]   
 
-- **ContextLens: Modeling Imperfect Privacy and Safety Context for Legal Compliance**. 2026.  
-Haoran Li, Yulin Chen, Huihao JING, **Wenbin Hu**, Tsz Ho Li, Chanhou Lou, Hong Ting Tsang, Sirui Han, Yangqiu Song.   
-ACL 2026 (Main).  
-
 - **Context Reasoner: Incentivizing Reasoning Capability for Contextualized Privacy and Safety Compliance via Reinforcement Learning**. 2025.  
 **Wenbin Hu**, Haoran Li, Huihao Jing, Qi Hu, Ziqian Zeng, Sirui Han, Heli Xu, Tianshu Chu, Peizhao Hu, Yangqiu Song.  
-EMNLP 2025 (Main). [[paper](https://arxiv.org/abs/2505.14585)]   
+EMNLP 2025 (Main). [[paper](https://arxiv.org/abs/2505.14585)]  
 
-- **MCIP: Protecting MCP Safety via Model Contextual Integrity Protocol**. 2025.  
-Huihao Jing, Haoran Li, **Wenbin Hu**, Qi Hu, Heli Xu, Tianshu Chu, Peizhao Hu, Yangqiu Song.  
-EMNLP 2025 (Main). [[paper](https://arxiv.org/abs/2505.14590)]  
+- Isolation as a First-Class Principle for LLM-Agent System Safety: Concepts, Taxonomy, Challenges and Future Directions. 2026.  
+Huihao Jing\*, **Wenbin Hu**\*, Shaojin Chen, Haochen Shi, Sirui Zhang, Hanyu Yang, Changxuan Fan, Zhongwei Xie, Hongyu Luo, Wun Yu Chan, Wei Fan, Haoran Li, Yangqiu Song.  
+EMNLP 2026 (Findings). [[paper](https://arxiv.org/pdf/2607.12406)]  
 
 - **PrivaCI-Bench: Evaluating Privacy with Contextual Integrity and Legal Compliance**. 2025.  
 Haoran Li\*, **Wenbin Hu**\*, Huihao Jing\*, Yulin Chen, Qi Hu, Sirui Han, Tianshu Chu, Peizhao Hu, Yangqiu Song.  
 ACL 2025 (Main). [[paper](https://arxiv.org/pdf/2502.17041)]
+
+- **GSPR: Aligning LLM Safeguards as Generalizable Safety Policy Reasoners**. 2026.
+Haoran Li, Yulin Chen, Jingru Zeng, Hao Peng, Huihao Jing, **Wenbin Hu**, Xi Yang, Ziqian Zeng, Sirui Han, Yangqiu Song. 
+EMNLP 2026 (Main). [[paper](https://arxiv.org/abs/2509.24418)]
+
+- **ContextLens: Modeling Imperfect Privacy and Safety Context for Legal Compliance**. 2026.  
+Haoran Li, Yulin Chen, Huihao JING, **Wenbin Hu**, Tsz Ho Li, Chanhou Lou, Hong Ting Tsang, Sirui Han, Yangqiu Song.   
+ACL 2026 (Main). [[paper](https://aclanthology.org/2026.acl-long.294/)]   
+ 
+- **MCIP: Protecting MCP Safety via Model Contextual Integrity Protocol**. 2025.  
+Huihao Jing, Haoran Li, **Wenbin Hu**, Qi Hu, Heli Xu, Tianshu Chu, Peizhao Hu, Yangqiu Song.  
+EMNLP 2025 (Main). [[paper](https://arxiv.org/abs/2505.14590)]  
 
 - **Mitigating the Alignment Tax of RLHF**. 2024.  
 Yong Lin, Hangyu Lin, Wei Xiong, Shizhe Diao, Jianmeng Liu, Jipeng Zhang, Rui Pan, Haoxiang Wang, **Wenbin Hu**, Hanning Zhang, Hanze Dong, Renjie Pi, Han Zhao, Nan Jiang, Heng Ji, Yuan Yao, Tong Zhang.    
@@ -64,8 +72,6 @@ Preprints
 - **Safety Compliance: Rethinking LLM Safety Reasoning through the Lens of Compliance**. 2025.09.   
 **Wenbin Hu\***, Huihao Jing\*, Haochen Shi, Haoran Li, Yangqiu Song. [[paper](https://arxiv.org/abs/2509.22250)]
 
-- **GSPR: Aligning LLM Safeguards as Generalizable Safety Policy Reasoners**. 2025.09.  
-Haoran Li, Yulin Chen, Jingru Zeng, Hao Peng, Huihao Jing, **Wenbin Hu**, Xi Yang, Ziqian Zeng, Sirui Han, Yangqiu Song. [[paper](https://arxiv.org/abs/2509.24418)]
 
 - **MASLegalBench: Benchmarking Multi-Agent Systems in Deductive Legal Reasoning**. 2025.09.  
 Huihao Jing\*, **Wenbin Hu\***, Hongyu Luo, Jianhui Yang, Wei Fan, Haoran Li, Yangqiu Song. [[paper](https://arxiv.org/abs/2509.24922v1)]
